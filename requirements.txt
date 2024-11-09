@@ -5,3 +5,4 @@ pandas
 matplotlib
 scikit-learn
 tensorflow
+seaborn
