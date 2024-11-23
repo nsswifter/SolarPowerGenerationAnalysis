@@ -9,7 +9,7 @@ The data used in this project is from the [Solar Power Generation Data](https://
 ## Installation
 
 To run this project, you will need:
-- Python 3.7+
+- Python 3.11.1+
 - Jupyter Notebook
 - Dependencies listed in [requirements.txt](requirements.txt)
 
